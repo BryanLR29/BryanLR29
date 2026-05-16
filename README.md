@@ -1,31 +1,48 @@
-<h1 align="center">Hi 👋, I'm Bryan López</h1>
-<h3 align="center">Backend Software Engineer 🚀</h3>
+<h1 align="center">🚀✨ <b>Hi, I'm Bryan López</b> ✨🚀</h1>
+<h3 align="center"><b>💀 Backend Software Engineer 💀</b></h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Java+%7C+PHP+%7C+Spring+%7C+Laravel;Clean+Code+%F0%9F%94%A5;APIs+that+hit+hard+%F0%9F%92%AA" />
+</p>
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 <b>About me</b>
 
-- 🎓 IT Engineering Student
-- 💻 Backend development enthusiast
-- 🌱 Learning APIs and web systems
-- 💼 Currently open to new job opportunities
+- 🎓 <b>IT Engineering Student</b>
+- 💻 <b>Backend development enthusiast</b>
+- 🌱 <b>Learning APIs and web systems</b>
+- 💼 <b>Open to work</b>
 
 ---
 
-## 🛠 My Skills
+## 🛠 <b>My arsenal 🔥</b>
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💻 <b>Languages</b>
 
-### ⚙ Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ff0000); margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="70" style="filter: drop-shadow(0 0 8px #8A2BE2); margin: 15px;" />
+</p>
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### ⚙ <b>Frameworks</b>
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #00ff00); margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ff0000); margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="70" style="filter: drop-shadow(0 0 8px #00bfff); margin: 15px;" />
+</p>
+
+### 🗄 <b>Databases</b>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ff8c00); margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ffcc00); margin: 15px;" />
+</p>
+
+### 🔧 <b>Tools</b>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #f05032); margin: 15px;" />
+  
+</p>
