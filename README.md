@@ -10,9 +10,9 @@
 ## 🧑‍💻 <b>About me</b>
 
 - 🎓 <b>IT Engineering Student</b>
-- 💻 <b>Backend development enthusiast</b>
-- 🌱 <b>Learning APIs and web systems</b>
-- 💼 <b>Open to work</b>
+- 💻 <b>Backend Development Enthusiast</b>
+- 🌱 <b>Building Scalable APIs & Microservices</b>
+- 💼 <b>Open to Work</b>
 
 ---
 
@@ -30,19 +30,19 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #00ff00); margin: 15px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ff0000); margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="70" style="filter: drop-shadow(0 0 8px #00bfff); margin: 15px;" />
 </p>
 
 ### 🗄 <b>Databases</b>
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #00bfff); margin: 15px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ff8c00); margin: 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #ffcc00); margin: 15px;" />
 </p>
 
-### 🔧 <b>Tools</b>
+### 🔧 <b>Tools & Environment</b>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #f05032); margin: 15px;" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="70" style="filter: drop-shadow(0 0 8px #00bfff); margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" style="filter: drop-shadow(0 0 8px #ff8c00); margin: 15px;" title="MySQL Workbench" />
 </p>
