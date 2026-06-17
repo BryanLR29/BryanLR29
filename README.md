@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 <b>About me</b>
 
-- 🎓 <b>IT Engineering Student</b>
+- 🎓 <b> I am studying Information Technology and Communications Engineering at the Salina Cruz Institute of Technology, with a specialization in software development</b>
 - 💻 <b>Backend Development Enthusiast</b>
 - 🌱 <b>Building Scalable APIs & Microservices</b>
 - 💼 <b>Open to Work</b>
